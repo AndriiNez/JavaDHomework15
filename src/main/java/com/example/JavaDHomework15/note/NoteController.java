@@ -65,5 +65,4 @@ public class NoteController {
         noteService.deleteById(id);
         return notesList();
     }
-
 }
